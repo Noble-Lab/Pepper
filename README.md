@@ -11,7 +11,7 @@ The model generalizes to new proteins and new runs within a related set of MS/MS
 The resulting adjusted abundance measurements are more highly correlated with mRNA-based gene expression measurements than the unadjusted measurements.
 Pepper is suitable for data generated on a variety of mass spectrometry instruments, using labeled or label-free approaches, and using data-independent or data-dependent acquisition.
   
-<img align="center" src="Pepper_ConceptFigure.png" width="60%">.
+<img align="center" src="Pepper_ConceptFigure.png" width="100%">
 
 ---
 ---
