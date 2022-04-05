@@ -37,7 +37,9 @@ Folder **preprocess_datasets/** includes all scripts for preprocessing datasets.
 
 **Consistency_of_Sibling_Peptide_Abundances.ipynb** generates distribution plots of sibling and non-sibling peptide abundances for showing the consistency of peptide coefficients **(Figure 2)**.
 
-**Create_Histograms_of_Sibling_Abundance_Differences.ipynb** generates histograms of difference between sibling peptide abundances before and after adjustment with the Pepper coefficients **(Figure 3)**.
+**Create_Histograms_of_Sibling_Abundance_Differences.ipynb** generates histograms of difference between sibling peptide abundances before and after adjustment with the Pepper coefficients **(Figure 3A)**.
+
+**Create_Plot_of_CVs.ipynb** generates scatter plots for comparing coefficient of variation before and after adjustment with the Pepper coefficients **(Figure 3B)**.
 
 **Create_Plots_of_Protein_Abundances.ipynb** generates plots of peptide locations and abundances for the selected dataset and proteins **(Figure 4)**.
 
