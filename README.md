@@ -16,6 +16,15 @@ Pepper is suitable for data generated on a variety of mass spectrometry instrume
 ---
 ---
 
+## Datasets and Trained Models
+
+The preprocessed NCI-60 dataset (both the preprocessed and one-hot encoded versions) used for generating all figures is available under **preprocess_datasets/preprocessed_datasets/**.
+
+All the other preprocessed datasets (compressed) used for generating Table 3 is available under **preprocess_datasets/preprocessed_datasets/compressed_datasets/**. 
+
+The trained model, predicted coefficients, and model outputs from the NCI-60 dataset is available under **trained_models/2019_guo_nci60/**.
+
+
 ## Pepper Pipeline
 
 ### 1. Data preprocessing
