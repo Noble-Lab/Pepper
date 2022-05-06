@@ -48,7 +48,7 @@ Folder **preprocess_datasets/** includes all scripts for preprocessing datasets.
 
 **Create_Histograms_of_Sibling_Abundance_Differences.ipynb** generates histograms of difference between sibling peptide abundances before and after adjustment with the Pepper coefficients **(Figure 3A)**.
 
-**Create_Plot_of_CVs.ipynb** generates scatter plots for comparing coefficient of variation before and after adjustment with the Pepper coefficients **(Figure 3B)**.
+**Create_Plot_of_CVs.ipynb** generates scatter plots for comparing coefficient of variation before and after adjustment with the Pepper coefficients **(Figure 3B)** and also generated the histogram of CV differences before and after adjustment **(Figure 3C)**.
 
 **Create_Plots_of_Protein_Abundances.ipynb** generates plots of peptide locations and abundances for the selected dataset and proteins **(Figure 4)**.
 
