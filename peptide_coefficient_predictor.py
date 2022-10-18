@@ -56,7 +56,7 @@ parser.add_argument('--peptide_file', help='File of peptide-level quants', requi
 parser.add_argument('--n_runs', help='Number of runs', required = True)
 parser.add_argument('--seq_length', help='Length of the sequence', required = True)
 parser.add_argument('--output_file', help='Output file to record all predicted coefficients', required = True)
-parser.add_argument('--filter_size', required = False, default = 103)
+parser.add_argument('--filter_size', required = False, default = 3)
 parser.add_argument('--n_filters', required = False, default = 10)
 parser.add_argument('--n_layers', required = False, default = 4)
 parser.add_argument('--n_nodes', required = False, default = 40)
